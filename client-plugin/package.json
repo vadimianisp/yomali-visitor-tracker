@@ -1,0 +1,12 @@
+{
+  "name": "yomali-visitor-tracker",
+  "version": "1.0.0",
+  "description": "JavaScript client for visitor tracking",
+  "main": "dist/tracker.min.js",
+  "scripts": {
+    "build": "esbuild src/tracker.js --outfile=dist/tracker.min.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.17.19"
+  }
+}

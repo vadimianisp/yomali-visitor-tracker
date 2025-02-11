@@ -1,0 +1,8 @@
+.idea/
+.env
+
+client-plugin/dist/
+client-plugin/node_modules/
+
+server-client/composer.lock
+server-client/vendor/
